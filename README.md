@@ -1,3 +1,3 @@
-# React live search drill starting point
+# React live search drill Reed work
 
-[GitHub](https://github.com/Thinkful-Ed/react-live-search-starting-point)
+[Reed's GitHub Repo](https://github.com/rbertolette/tf-rb-react-live-search-drill.git)
